@@ -5,6 +5,7 @@
  So,this project aims to detect Covid19 cases from the xray images. 
  
 ## How To Get The Dataset
-The dataset is publicly available in kaggle website. I have found four different datasets provided by different users. I merged all those datasets into one combined dataset and split the dataset into train, test and validation set.
+The dataset is publicly available in kaggle website. I have found four different datasets provided by different users. I merged all those datasets into one combined dataset and split the dataset into train, test and validation set.The combined datasets consists of three categories i.e. COVID19,NORMAL AND PNEUMONIA.So,this is a web app that can detect whether the person is having COVID19 or is NORMAL or PNEUMONIA victim by using chest xray images.
+
 ### Data Description and Links
 
